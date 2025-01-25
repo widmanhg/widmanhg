@@ -1,5 +1,11 @@
 #  About Me:
-Currently pursuing a degree in Data Engineering at the Universidad Politécnica de Yucatán. I am eager to gain more hands-on experience in the industry while strengthening my skills in Data Analysis, Big Data, Cloud Computing, Distributed Systems, and Machine Learning. I'm also interested in cybersecurity and IoT applications.<br><br> I am learning cloud technologies at this very moemnt.<br> I’m looking to collaborate on Big Data and Cloud Engineering projects.<br>🌱 I’m currently learning Apache Cassandra, Apache Spark, Databricks, and advanced AWS services.<br> Reach me at: gerardozero4@gmail.com<br
+- Currently pursuing a degree in Data Engineering at the Universidad Politécnica de Yucatán.  
+- I am eager to gain more hands-on experience in the industry while strengthening my skills in Data Analysis, Big Data, Cloud Computing, Distributed Systems, and Machine Learning.  
+- I'm also interested in cybersecurity and IoT applications.  
+- I am learning cloud technologies at this very moment.  
+- I’m looking to collaborate on Big Data and Cloud Engineering projects.  
+- I’m currently learning Apache Spark, Databricks, and exploring a lot about AWS services.  
+- Reach me at: gerardozero4@gmail.com.  
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gerardo-hernandez-widman-21818a294) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]() 
