@@ -8,7 +8,10 @@
 - Reach me at: gerardozero4@gmail.com.  
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gerardo-hernandez-widman-21818a294) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)] [![Credly Badge 1](https://img.shields.io/badge/Credly%20Badge%201-%2300A4E4.svg?logo=credly&logoColor=white)](https://www.credly.com/users/gerardo-hernandez.c97e973a)[![Credly Badge 2](https://img.shields.io/badge/Credly%20Badge%202-%2300A4E4.svg?logo=credly&logoColor=white)](https://www.credly.com/users/gerardo-hernandez.1dbc3837)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gerardo-hernandez-widman-21818a294) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]() 
+[![Credly Badge 1](https://img.shields.io/badge/Credly%20Badge%201-%2300A4E4.svg?logo=credly&logoColor=white)](https://www.credly.com/users/gerardo-hernandez.c97e973a) 
+[![Credly Badge 2](https://img.shields.io/badge/Credly%20Badge%202-%2300A4E4.svg?logo=credly&logoColor=white)](https://www.credly.com/users/gerardo-hernandez.1dbc3837)
 
 
 # 💻 Tech Stack:
